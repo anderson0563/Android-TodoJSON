@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Todo JSON</string>
+    <string name="get">Carregar Tarefas</string>
+</resources>
